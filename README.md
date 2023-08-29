@@ -1,5 +1,5 @@
 # Ripple
-### Ripple - Grapple Mechanic Showcase
+### Ripple - Grapple Mechanic Showcase - By Advaith Karnad [IGN: AxyleneOmega]
 
 * All Project Files can be found in this repository
 * Packaged .apk files can be found in at [Ripple/Android_Multi/][https://drive.google.com/drive/folders/1z4SmAQUtR-8PS_GFbACMTcoGao71Yy55?usp=sharing]
